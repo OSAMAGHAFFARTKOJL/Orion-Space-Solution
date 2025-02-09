@@ -1,1 +1,13 @@
+numpy 
+pandas 
+tensorflow 
+torch 
+transformers 
+kafka-python 
+fastapi 
+uvicorn 
+streamlit 
+opencv-python
+autogen 
+stable-baselines3
 
