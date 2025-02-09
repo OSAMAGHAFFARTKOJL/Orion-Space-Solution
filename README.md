@@ -1,10 +1,7 @@
-Here’s a **detailed README.md** for your **ORION: AI-Driven Space Operations Automation** project. This README includes the **project overview, repository structure, installation guide, usage instructions, and future improvements**.
-
----
 
 # **🚀 ORION: AI-Driven Space Operations Automation**  
 
-![ORION AI](https://user-images.githubusercontent.com/123456789/orion_banner.png)  
+
 
 ## **🔹 Overview**  
 ORION is an **AI-powered automation system** for space operations, integrating:  
